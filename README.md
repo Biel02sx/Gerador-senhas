@@ -4,7 +4,7 @@ Este é um gerador de senhas aleatórias desenvolvido com HTML, CSS e JavaScript
 O projeto permite criar senhas seguras e personalizadas, de acordo com as preferências do usuário.
 
 # Visualize o projeto:
-🔗 https://biel02sx.github.io/gerador-senhas/
+🔗 https://github.com/Biel02sx/Gerador-senhas
 
 # Funcionalidades
 
